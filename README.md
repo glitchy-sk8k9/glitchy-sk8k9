@@ -2,4 +2,18 @@
 -  I’m interested in some nerdy computer stuff.
 -  I’m currently learning some german and rust.
 
-### Actually dosent care about this `README.md` for some reason, gonna update this later when im not lazy.
+My PGP Public key:
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+xjMEZX3DDxYJKwYBBAHaRw8BAQdAmdAzCC0ckAffYUF69iPZMxmvKgwbiZ4J
++8dFL08SeZvNJzlkNWQ4MmE1MDdncmpkOHNkY3J2dCA8c2s4azlAcHJvdG9u
+Lm1lPsKMBBAWCgAdBQJlfcMPBAsJBwgDFQgKBBYAAgECGQECGwMCHgEAIQkQ
+PzZHIbZXU1UWIQSjINpAVvx1UyYTvRU/NkchtldTVVVlAQDBB6HsXJO/gY7l
+vs2oAqoZ9HxqcmrQA2FZKtLbYWAvHgD+MEoju8Jko1ign/ZsQjmMAoNFfTjU
+Sqgdje+7xM1KswjOOARlfcMPEgorBgEEAZdVAQUBAQdAtKkCbbxQNGzJuZkY
+1HoBEn3b6gX3AqcZJ7iZm7lRayADAQgHwngEGBYIAAkFAmV9ww8CGwwAIQkQ
+PzZHIbZXU1UWIQSjINpAVvx1UyYTvRU/NkchtldTVQiUAP9ZUcqYB+8C4Z1Y
+0Zsb1S+bkk3H55ARdVC46I+xBbjVJAEAjo/6GIkfsQZNKpLsDSn7LxquQDov
+9IKRHdBwCN8UNwI=
+=f8CQ
+-----END PGP PUBLIC KEY BLOCK-----
