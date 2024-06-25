@@ -1,19 +1,17 @@
-# 👋 Hi, I’m @glitchy-sk8k9
--  I’m interested in some nerdy computer stuff.
--  I’m currently learning some german and rust.
+# Heya, glitchy here.
 
-My PGP Public key:
------BEGIN PGP PUBLIC KEY BLOCK-----
+- My unique username is sk8k9, but i like the name glitchy. Plus it would fit with how my linux machine (barely) works.
 
-xjMEZX3DDxYJKwYBBAHaRw8BAQdAmdAzCC0ckAffYUF69iPZMxmvKgwbiZ4J
-+8dFL08SeZvNJzlkNWQ4MmE1MDdncmpkOHNkY3J2dCA8c2s4azlAcHJvdG9u
-Lm1lPsKMBBAWCgAdBQJlfcMPBAsJBwgDFQgKBBYAAgECGQECGwMCHgEAIQkQ
-PzZHIbZXU1UWIQSjINpAVvx1UyYTvRU/NkchtldTVVVlAQDBB6HsXJO/gY7l
-vs2oAqoZ9HxqcmrQA2FZKtLbYWAvHgD+MEoju8Jko1ign/ZsQjmMAoNFfTjU
-Sqgdje+7xM1KswjOOARlfcMPEgorBgEEAZdVAQUBAQdAtKkCbbxQNGzJuZkY
-1HoBEn3b6gX3AqcZJ7iZm7lRayADAQgHwngEGBYIAAkFAmV9ww8CGwwAIQkQ
-PzZHIbZXU1UWIQSjINpAVvx1UyYTvRU/NkchtldTVQiUAP9ZUcqYB+8C4Z1Y
-0Zsb1S+bkk3H55ARdVC46I+xBbjVJAEAjo/6GIkfsQZNKpLsDSn7LxquQDov
-9IKRHdBwCN8UNwI=
-=f8CQ
------END PGP PUBLIC KEY BLOCK-----
+- Rarely ever gets priorities done -_- <sup>why can't i do anything unless im forced to?</sup>
+
+Honestly ill be suprised if i ever finish Initceptor, it's looking quite good but yeah, no, there's always the chance of me abandoning stuff.
+
+-----
+
+UTC timezone<sub>No daylight savings</sub>
+
+Uses arch btw
+
+Fav quote:
+
+> Never trust a statistic you didn't fake yourself.
