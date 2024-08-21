@@ -4,11 +4,10 @@
 
 - Rarely ever gets priorities done -_- <sup>why can't i do anything unless im forced to?</sup>
 
-Honestly ill be suprised if i ever finish Initceptor, it's looking quite good but yeah, no, there's always the chance of me abandoning stuff.
 
 -----
 
-UTC timezone<sub>No daylight savings</sub>
+UTC timezone <sub>(No daylight savings)</sub>
 
 Uses arch btw
 
